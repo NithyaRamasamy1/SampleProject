@@ -6,6 +6,7 @@ public class SampleProject {
 	{
 		
 		System.out.println("Well done Nithu");
+		System.out.println("trying");
 	}
 
 }
